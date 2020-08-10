@@ -1,16 +1,30 @@
-### Hi there 👋
+### Hi there, I'm zyapguy from z2K Entertainment [zyapguy][website] 👋
 
-<!--
-**zyapguy/zyapguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm an indie game dev and a software developer
+- 🔭 I’m currently working on a [video game][website]!
+- 🌱 I’m currently learning C
+- 👯 I'm looking to work freelance
+- 🥅 2020 Goals: Git Gud
+- ⚡ Fun fact: I once made a popular game about a dog that likes pepsi
 
-Here are some ideas to get you started:
+### Connect with me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[<img align="left" alt="zyapguy" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="zyapguy | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="zyapguy | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+
+<br />
+
+### Languages and Tools:
+
+[<img align="left" alt="JetBrains Rider" width="26px" src="https://img.stackshare.io/service/7410/lh1l265w_400x400.jpg" />][webdevplaylist]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][webdevplaylist]
+[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />][cssplaylist]
+
+<br />
+<br />
+
+
+[website]: https://www.zyapimstudios.cokm
+[twitter]: https://twitter.com/zyapguy
+[youtube]: https://www.youtube.com/channel/UCc4IizbM0q_JySK3XUY0Drw
