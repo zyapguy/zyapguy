@@ -1,10 +1,10 @@
 ### Hi there, I'm zyapguy from z2K Entertainment [zyapguy][website] 👋
 
 ## I'm an indie game dev and a software developer
-- 🔭 I’m currently working on a [video game][website]!
-- 🌱 I’m currently learning C
-- 👯 I'm looking to work freelance
-- 🥅 2020 Goals: Git Gud
+- 🎮 I’m currently working on a [video game][website]!
+- ⌨️ I’m currently learning C
+- 🖥️ I'm looking to work freelance
+- 👍 2020 Goals: Git Gud
 - ⚡ Fun fact: I once made a popular game about a dog that likes pepsi
 
 ### Connect with me:
@@ -17,9 +17,9 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="JetBrains Rider" width="26px" src="https://img.stackshare.io/service/7410/lh1l265w_400x400.jpg" />]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />]
-[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />]
+<img align="left" alt="JetBrains Rider" width="26px" src="https://img.stackshare.io/service/7410/lh1l265w_400x400.jpg" />
+<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
+<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 
 <br />
 <br />
