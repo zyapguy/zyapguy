@@ -25,6 +25,6 @@
 <br />
 
 
-[website]: https://www.zyapimstudios.cokm
+[website]: https://www.zyapimstudios.com
 [twitter]: https://twitter.com/zyapguy
 [youtube]: https://www.youtube.com/channel/UCc4IizbM0q_JySK3XUY0Drw
