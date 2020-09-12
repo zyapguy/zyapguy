@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="JetBrains Rider" width="26px" src="https://img.stackshare.io/service/7410/lh1l265w_400x400.jpg" />
+<img align="left" alt="JetBrains Rider" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vscode/vscode.png" />
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
 
