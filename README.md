@@ -2,9 +2,9 @@
 
 ## I'm an indie game dev and a software developer
 - 🎮 I’m currently working on a [video game][website]!
-- ⌨️ I’m currently learning C
+- ⌨️ I’m currently learning web development.
 - 🖥️ I'm looking to work freelance
-- 👍 2020 Goals: Git Gud
+- 👍 2021 Goals: Actually finish a project
 - ⚡ Fun fact: I once made a popular game about a dog that likes pepsi
 
 ### Connect with me:
@@ -24,6 +24,6 @@
 <br />
 
 
-[website]: https://www.zyapimstudios.com
+[website]: https://www.zyapimstudios.com/generations
 [twitter]: https://twitter.com/zyapguy
 [youtube]: https://www.youtube.com/channel/UCc4IizbM0q_JySK3XUY0Drw
