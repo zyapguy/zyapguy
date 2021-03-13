@@ -22,8 +22,9 @@
 
 <br />
 <br />
-[Stats](https://github-readme-stats.vercel.app/api?username=zyapguy&show_icons=true&theme=vue)
-[Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyapguy&layout=compact&theme=vue)
+#### My stats:
+![Stats](https://github-readme-stats.vercel.app/api?username=zyapguy&show_icons=true&theme=vue)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyapguy&layout=compact&theme=vue)
 
 [website]: https://www.zyapimstudios.com/generations
 [twitter]: https://twitter.com/zyapguy
