@@ -1,4 +1,4 @@
-### Hi there, I'm zyapguy from z2K Entertainment [zyapguy][website] 👋
+### Hi there, I'm zyapguy from z2K Entertainment 👋
 
 ## I'm an indie game dev and a software developer
 - 🎮 I’m currently working on a [video game][website]!
