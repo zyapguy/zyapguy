@@ -1,11 +1,11 @@
 ### Hi there, I'm zyapguy from zyap media 👋
 
-## I'm an indie game dev, software developer and YouTuber
+## I'm a student, indie game dev and YouTuber
 - 🎮 I’m currently working on a [video game][website]!
-- ⌨️ I’m currently learning backend development
+- ⌨️ I’m currently learning microservices
 - 🖥️ I have been programming for 10+ years!
 - 👍 2022 Goals: Learn fullstack development
-- ⚡ Fun fact: I once made a popular game about a dog that likes pepsi
+- ⚡ Fun fact: I started gamedev with GameMaker 7.0
 
 ### Connect with me:
 
@@ -16,10 +16,7 @@
 
 
 ### Languages and Tools:
-
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
-<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/cpp.png" />
+I work with C#, Java, C++ and Python. I use the Unity and Unreal game engines as well as my own.
 
 [website]: https://www.playgenerations.com
 [twitter]: https://twitter.com/zyapguy
