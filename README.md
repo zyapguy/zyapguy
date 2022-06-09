@@ -19,11 +19,7 @@
 
 <img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />
 <img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png" />
-
-
-### My stats:
-![Stats](https://github-readme-stats.vercel.app/api?username=zyapguy&show_icons=true&theme=vue)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zyapguy&layout=compact&theme=vue)
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/cpp.png" />
 
 [website]: https://www.playgenerations.com
 [twitter]: https://twitter.com/zyapguy
