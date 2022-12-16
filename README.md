@@ -2,9 +2,9 @@
 
 ## I'm a student, indie game dev and YouTuber
 - 🎮 I’m currently working on a [video game][website]!
-- ⌨️ I’m currently learning microservices
-- 🖥️ I have been programming for 10+ years!
-- 👍 2022 Goals: Learn fullstack development
+- ⌨️ I’m currently learning large scale multiplayer video game architecture.
+- 🖥️ I have been programming for 11+ years!
+- 👍 2023 Goals: Finish a commercial project
 - ⚡ Fun fact: I started gamedev with GameMaker 7.0
 
 ### Languages and Tools:
