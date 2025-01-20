@@ -3,7 +3,7 @@
 ## I'm a student, indie game dev and YouTuber
 - 🎮 I’m making a [video game][website] about stealing!
 - ⌨️ I’m currently studying at the University of Exeter.
-- 🖥️ I have been programming for 11+ years!
+- 🖥️ I have been programming for 12+ years!
 - 👍 2025 Goals: Launch a project.
 - ⚡ Fun fact: I listen to Irish folk music when programming.
 
